@@ -4,7 +4,7 @@ cover: .gitbook/assets/1920.png
 coverY: 0
 ---
 
-# METACOT (Metaverse Ecosystem)
+# METACOO (Metaverse Ecosystem)
 
 {% hint style="info" %}
 ## Digital University Ecosystem In Metaverse And Quiz To Earn At Metacost
